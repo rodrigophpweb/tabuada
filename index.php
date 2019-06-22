@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Tauada</title>
+	<title>Tabuada de Calculos</title>
 </head>
 <body>
 	
